@@ -11,7 +11,7 @@ body{
     position: fixed;
     width: 100%;
     background-color: rgb(255, 255, 255);
-    transform: skewY(19deg);
+    transform: skewY(20deg);
     top : -50%;
 }
 a{
@@ -104,3 +104,4 @@ a:hover{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 3vh;
 }
+
