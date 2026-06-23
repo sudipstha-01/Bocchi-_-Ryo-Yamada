@@ -1,5 +1,4 @@
-https://sudip-project-01.netlify.app/
-# 💻 Gaming Landing Page
+
 
 My very first web development project, built using only HTML and CSS while learning the fundamentals of web design and page layouts.
 
